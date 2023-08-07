@@ -14,6 +14,7 @@
         "Subdue",
         "Fire",
         "Flame",
+        "Freeze",
         "Invisibility",
         "Water",
         "Drop",
@@ -30,7 +31,15 @@
         "Spire",
         "Repentance",
         "Infection",
-        "Concrete"
+        "Concrete",
+        "Knell",
+        "Conquer",
+        "Separation",
+        "Separator",
+        "Splaying",
+        "Rend",
+        "Serration",
+        "Corrupt"
         
 
     ],
@@ -54,7 +63,10 @@
         "Radiant",
         "Clockwork",
         "Infection",
-        "Animate"
+        "Animate",
+        "Killer",
+        "Divine",
+        "Tendon"
 
     ],
     "articles":
@@ -78,6 +90,8 @@
         "Robert",
         "Darius",
         "Marian",
-        "Master"
+        "Master",
+        "Korin",
+        "Matti"
     ]
 }
