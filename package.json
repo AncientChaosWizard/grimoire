@@ -1,0 +1,11 @@
+{
+  "name": "spell_gen",
+  "version": "1.0.0",
+  "description": "Spell template random generator for Grimoire by Axios Verum",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Korin Serban",
+  "license": "ISC"
+}

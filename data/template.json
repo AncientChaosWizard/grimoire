@@ -1,0 +1,56 @@
+{
+    "meta": 
+    {
+        "name": "spell_name",
+        "type": "offense",
+        "tag_count": 4,
+        "tags": 
+        [
+            "array of strings"
+        ],
+        "author":"Costel",
+        "flavour_text":"You drain thermal and kinetic energy from a foe."
+    },
+    "mechanics":
+    {
+        "casting_time":2,
+        "level":0,
+        "slots":"X,M",
+        "range":"Touch",
+        "duration":"Instant",
+        "classes":"Magus,Sorcerer,Wizard"
+    },
+    "effects":
+    {
+        "effect_name":"chill",
+        "effect_tags":["Melee","Spell","Attack"],
+        "targets":1,
+        "success":"Hit",
+        "damage":"1d8",
+        "damage_type":"cold",
+        "status":"slow",
+        "status_value":1,
+        "duration":1
+    },
+    "metamagic":
+    {
+        "empower":
+        {
+            "+1":"+1d8",
+            "+2":"+2d8 | +1 slow"
+        },
+        "mass":
+        {
+            "+2":"Any targets within 5m"
+        },
+        "widen":
+        {
+            "+1":"x2 mass chill range"
+        }
+
+    },
+    "miscast":
+    {
+        "effect":"Xd8 cold damage"
+    }
+}

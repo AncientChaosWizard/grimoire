@@ -1,0 +1,83 @@
+{
+    "primary":
+    [
+        "Crystallize",
+        "Usurp",
+        "Usurpation",
+        "Spike",
+        "Rockets",
+        "Purge",
+        "Discharge",
+        "Promise",
+        "Chill",
+        "Ignite",
+        "Subdue",
+        "Fire",
+        "Flame",
+        "Invisibility",
+        "Water",
+        "Drop",
+        "Rock",
+        "Boulder",
+        "Diabetes",
+        "Gaze",
+        "Radiance",
+        "Essence",
+        "Purity",
+        "Ponder",
+        "Opt",
+        "Orb",
+        "Spire",
+        "Repentance",
+        "Infection",
+        "Concrete"
+        
+
+    ],
+    "secondary":
+    [
+        "Involuntary",
+        "Gravity",
+        "Flesh",
+        "Mechanical",
+        "Mind",
+        "Scape",
+        "Space",
+        "Body",
+        "Cosmos",
+        "Cosmic",
+        "Flux",
+        "Radiating",
+        "Break",
+        "Power word:",
+        "Immaculate",
+        "Radiant",
+        "Clockwork",
+        "Infection",
+        "Animate"
+
+    ],
+    "articles":
+    [
+        "of",
+        "by",
+        "in",
+        "from",
+        "through",
+        "out of",
+        "within",
+        "without",
+        "between",
+        "the",
+        "of the"
+        
+    ],
+    "authors":
+    [
+        "Bas",
+        "Robert",
+        "Darius",
+        "Marian",
+        "Master"
+    ]
+}
